@@ -1,4 +1,4 @@
-# Image_Classification
+# Image-Classification
 * 画像分類モデル（PyTorch）のプログラム
 
 ## リポジトリ構成
