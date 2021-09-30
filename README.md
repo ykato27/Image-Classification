@@ -5,7 +5,6 @@
 ```
 .
 ├── README.md
-├── Vision_Transformer_MLP_Mixer.ipynb
 ├── docs
 │   └── awesome-image-classification
 │       └── README.md
@@ -34,6 +33,7 @@
 │   ├── Pytorch_AlexNet.ipynb
 │   ├── SSD_PyTorch.ipynb
 │   ├── VGG_ResNet50.ipynb
+│   ├── Vision_Transformer_MLP_Mixer.ipynb
 │   ├── alexnet_cifar10.ipynb
 │   ├── classification.ipynb
 │   ├── finetuning_torchvision_models_tutorial.ipynb
