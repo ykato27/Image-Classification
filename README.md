@@ -5,12 +5,24 @@
 ```
 .
 ├── README.md
+├── Vision_Transformer_MLP_Mixer.ipynb
 ├── docs
 │   └── awesome-image-classification
 │       └── README.md
 ├── models
 ├── notebooks
+│   ├── 01_cnn_dataloader_augmentation.ipynb
+│   ├── 02_5_grad_cam.ipynb
+│   ├── 02_cam.ipynb
+│   ├── 03_resnet.ipynb
+│   ├── 04_senet.ipynb
+│   ├── 05_abn.ipynb
+│   ├── 06_efficientnet.ipynb
 │   ├── 2_1_transfer_learning_tutorial_jp.ipynb
+│   ├── 3_5_1_CNN.ipynb
+│   ├── 3_5_2_CNN_GPU.ipynb
+│   ├── 3_6_Augmentation.ipynb
+│   ├── 3_7_ResNet.ipynb
 │   ├── CNN_CIFAR10.ipynb
 │   ├── CNN_Fashion_MNIST.ipynb
 │   ├── Cifar_pytorch.ipynb
